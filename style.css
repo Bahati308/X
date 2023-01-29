@@ -9,13 +9,12 @@ around line 80 .container
 
 /*------NAV BAR SECTION--------*/
 nav{
-  text-shadow: #221919;
+  text-shadow: #ef5d5d;
 }
 
  /* Add a black background color to the top navigation */
  .nav {
     background-color:rgb(19, 23, 33);
-    overflow: hidden;
 
   }
   
@@ -26,13 +25,13 @@ nav{
     color: red;
     text-align: center;
     padding: 14px 16px;
-    text-decoration: none;
     font-weight: bolder;
+    border-radius: 8px;
   }
 
   .nav a:hover{
-    color: orange;
-    border-radius: 8px;
+    color: blue;
+    
   }
   
   /* Add an active class to highlight the current page */
@@ -69,15 +68,6 @@ body {
 }
 
 /*------FOOTER TAG--------------*/
-footer{
-
-
-  text-align: center;
-  padding: 3px;
-  background-color: skyblue;
-  color: white;
-}
-
 
 .responsive-container {
   margin-top: 10px;
