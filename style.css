@@ -9,12 +9,12 @@ around line 80 .container
 
 /*------NAV BAR SECTION--------*/
 nav{
-  text-shadow: #f19b9b;
+  text-shadow: #221919;
 }
 
  /* Add a black background color to the top navigation */
  .nav {
-    background-color:royalblue;
+    background-color:rgb(19, 23, 33);
     overflow: hidden;
 
   }
